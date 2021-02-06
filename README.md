@@ -22,7 +22,7 @@ Basis was shut down in 2018, due to regulatory concerns its Bond and Share token
 YFL USD differs from the original Basis Project in several meaningful ways: 
 
 1. **Rationally simplified** - several core mechanisms of the Basis protocol has been simplified, especially around bond issuance and seigniorage distribution. We've thought deeply about the tradeoffs for these changes, and believe they allow significant gains in UX and contract simplicity, while preserving the intended behavior of the original monetary policy design. 
-2. **Fairly distributed** - both YFL and YFL USD has zero premine and no investors - community members can earn the initial supply of YFL USD by helping to contribute to bootstrap liquidity & adoption of YFL USD. 
+2. **Fairly distributed** - community members can earn the initial supply of YFL USD by helping to contribute to bootstrap liquidity & adoption of YFL USD. 
 
 ### A Three-token System
 
