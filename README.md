@@ -36,7 +36,7 @@ There exists three types of assets in the YFLUSD system.
 
 - **Contraction**: When the price($YFLUSD) < ($1 - epsilon), users can trade in $YFLUSD for $bYFL at the $bYFL-$YFLUSD exchange rate of price($YFLUSD). This allows bonds to be always sold at a discount to cash during a contraction.
 - **Expansion**: When the price($YFLUSD) > ($1 + epsilon), users can trade in 1 $bYFL for 1 $YFLUSD. This allows bonds to be redeemed always at a premium to the purchase price. 
-- **Seigniorage Allocation**: If there are no more bonds to be redeemed, (i.e. bond Supply is negligibly small), more $YFLUSD is minted totalSupply($YFLUSD) * (price($YFLUSD) - 1), and a percentage is sent to the YFL Treasury and the remaining is placed in a pool for $yYFL holders to claim pro-rata in a 24 hour period. 
+- **Seigniorage Allocation**: If there are no more bonds to be redeemed, (i.e. bond Supply is negligibly small), more $YFLUSD is minted totalSupply($YFLUSD) * (price($YFLUSD) - 1), and a percentage is sent to the YFL Treasury and the remaining is placed in a pool for $sYFL holders to claim pro-rata in a 24 hour period. 
 
 Read the official [YFLUSD Documentation](https://learn.yflink.io) for more details.
 
@@ -46,7 +46,7 @@ We, the core developers of YFLUSD, were early supporters & observers of Basis wh
 
 This is not a DeFi project. We are simply leveraging the industry's excitement in the category to bring much deserved attention and engagement to the Basis Protocol, and to use this opportunity to distribute ownership in the protocol fairly.
 
-Our only motivation is to bring the Basis Protocol into the world, and to serve its community in implementing Basis' vision to become the first widely adopted decentralized dollar. 
+Our only motivation is to bring the Basis Protocol into the world, and to serve its community in implementing YFLUSD's vision to become the first widely adopted decentralized dollar. 
 
 ## How to Contribute
 
